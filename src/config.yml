@@ -1,0 +1,8 @@
+title:          Barge OS
+baseurl:        http://barge-os.com/
+languageCode:   en-us
+metaDataFormat: yaml
+
+params:
+  keywords:    Linux, OS, Container, Docker, Buildroot
+  description: Yet another lightweight Linux distribution for Docker containers
